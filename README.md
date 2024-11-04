@@ -41,15 +41,15 @@ I'm a Software Engineering student at Daffodil International University, working
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="My GitHub stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=333333&border_color=333333" alt="Rafat's GitHub stats" height="180" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="130" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_title=true&title_color=ffffff&text_color=ffffff&bg_color=333333&border_color=333333" alt="Top Languages" height="130" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" height="180" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical&hide_title=true&title_color=ffffff&text_color=ffffff&bg_color=333333&border_color=333333" alt="Current Streak" height="180" />
     </a>
 </div>
 
