@@ -11,7 +11,7 @@ A passionate app developer focused on building innovative Android applications.
 
 ---
 
-### Programming Languages
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width="40" height="40" alt="C"/>
@@ -30,7 +30,7 @@ A passionate app developer focused on building innovative Android applications.
 
 </div>
 
-### Development Tools
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" height="40" alt="Git" />
@@ -54,7 +54,7 @@ A passionate app developer focused on building innovative Android applications.
     </a>
     <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="90" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
