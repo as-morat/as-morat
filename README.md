@@ -49,7 +49,7 @@ A passionate app developer focused on building innovative Android applications.
     </a>
     <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="120" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="140" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
