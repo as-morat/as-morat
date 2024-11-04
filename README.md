@@ -11,7 +11,6 @@ A passionate app developer focused on building innovative Android applications.
 
 ---
 
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40" height="40" alt="C" />
@@ -25,14 +24,13 @@ A passionate app developer focused on building innovative Android applications.
 
 </div>
 
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" height="40" alt="Git" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" height="40" alt="GitLab"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="40" height="40" alt="PyCharm"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="40" height="40" alt="Eclipse" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="40" height="40" alt="Eclipse" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="40" height="40" alt="IntelliJ IDEA"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="40" height="40" alt="Visual Studio Code"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="40" height="40" alt="Visual Studio"/>
@@ -42,6 +40,7 @@ A passionate app developer focused on building innovative Android applications.
 
 </div>
 
+<br> <!-- Add space before stats -->
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
@@ -56,4 +55,4 @@ A passionate app developer focused on building innovative Android applications.
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" height="180" />
     </a>
 </div>
-
+<br> <!-- Add space after stats -->
