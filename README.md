@@ -1,13 +1,13 @@
-# Hi 👋, I'm Al Shahriar Mohammad Rafat (Ash)  
-A passionate app developer focused on building innovative Android applications.
+#Hey there! 👋 I'm Al Shahriar Mohammad Rafat, but you can call me Ash.
+I'm a Software Engineering student at Daffodil International University, working towards my BSc (Honors) degree. I’m focused on creating innovative, user-friendly applications. Right now, I'm enhancing my skills in Flutter to build engaging experiences.
 
-🔭 **Currently working on:** Capstone project in C for my academic course
+📚 **Currently Learning:** Developing expertise in Flutter and Dart for cross-platform projects, while enhancing skills in Python, Java, and C++.
 
-🌱 **Currently learning:** I’m working on expanding my skills in **Flutter** development. I also have foundational knowledge in **Python, Java, and C**, which I’m always eager to improve.
-
-💬 **Ask me about:** App development, Java tutorials, or any problems. If I can help, I surely will.
+💬 **Ask me about:** Programming concepts in Java, C, Python, Dart, or any coding challenges you’re facing! If I can help, I’ll be glad to offer guidance and support.
 
 📫 **How to reach me:** morat9511@gmail.com
+
+⚡ **Fun Fact :** "Nothing beats that 'Eureka!' moment when the code finally works!" Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day.
 
 ---
 
