@@ -1,4 +1,4 @@
-##Hey there! 👋 I'm Al Shahriar Mohammad Rafat, but you can call me Ash.
+# Hey there! 👋 I'm Al Shahriar Mohammad Rafat, but you can call me Ash.
 I'm a Software Engineering student at Daffodil International University, working towards my BSc (Honors) degree. I’m focused on creating innovative, user-friendly applications. Right now, I'm enhancing my skills in Flutter to build engaging experiences.
 
 📚 **Currently Learning:** Developing expertise in Flutter and Dart for cross-platform projects, while enhancing skills in Python, Java, and C++.
