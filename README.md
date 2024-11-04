@@ -53,7 +53,6 @@ I'm a Software Engineering student at Daffodil International University, working
     </a>
 </div>
 <br> <!-- Add space after stats -->
----
 
 ### **Fun Fact** ⚡
 "Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
