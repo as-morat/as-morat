@@ -11,7 +11,7 @@ A passionate app developer focused on building innovative Android applications.
 
 ---
 
-### Tech Stack
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -21,7 +21,7 @@ A passionate app developer focused on building innovative Android applications.
 
 ---
 
-### Tools & Extensions
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
