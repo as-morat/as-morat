@@ -37,7 +37,8 @@ I'm a Software Engineering student at Daffodil International University, working
 
 ---
 
-<br> <!-- Add space before stats -->
+<br> 
+<!-- 
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
@@ -52,8 +53,7 @@ I'm a Software Engineering student at Daffodil International University, working
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" height="180" />
     </a>
 </div>
-
----
+-->
 
 ### **Fun Fact** ⚡
 "Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
