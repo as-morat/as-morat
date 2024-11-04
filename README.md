@@ -18,11 +18,15 @@ A passionate app developer focused on building innovative Android applications.
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="40" height="40" alt="Python"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width="40" height="40" alt="Java"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg" width="40" height="40" alt="Dart"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg" width="40" height="40" alt="Flutter"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" height="40" alt="Flutter"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" width="40" height="40" alt="HTML"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" width="40" height="40" alt="CSS"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://github.com/heltonricardo/programming-language-icons/blob/master/svg-files/cpp.svg" width="40" height="40" alt="C++"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40" alt="Firebase"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="40" height="40" alt="Gradle"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="NodeJS"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" alt="Docker"/>
 
 </div>
 
@@ -30,7 +34,8 @@ A passionate app developer focused on building innovative Android applications.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" width="40" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" height="40" alt="GitLab"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="40" height="40" alt="PyCharm"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.svg" width="40" height="40" alt="Eclipse"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="40" height="40" alt="IntelliJ IDEA"/>
@@ -38,6 +43,7 @@ A passionate app developer focused on building innovative Android applications.
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="40" height="40" alt="Visual Studio"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" width="40" height="40" alt="Android Studio"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png" width="40" height="40" alt="Notepad++"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="40" height="40" alt="CMake"/>
 
 </div>
 
