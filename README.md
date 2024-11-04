@@ -14,19 +14,14 @@ A passionate app developer focused on building innovative Android applications.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width="40" height="40" alt="C"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40" height="40" alt="C" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width="40" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg" width="40" height="40" alt="Dart"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" height="40" alt="Flutter"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" width="40" height="40" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" width="40" height="40" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://github.com/heltonricardo/programming-language-icons/blob/master/svg-files/cpp.svg" width="40" height="40" alt="C++"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" height="40" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40" height="40" alt="C++" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40" alt="Firebase"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="40" height="40" alt="Gradle"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="NodeJS"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" alt="Docker"/>
 
 </div>
 
@@ -54,7 +49,7 @@ A passionate app developer focused on building innovative Android applications.
     </a>
     <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="90" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="120" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
