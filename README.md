@@ -48,14 +48,17 @@ A passionate app developer focused on building innovative Android applications.
 </div>
 
 ### GitHub Stats ⚡
-<p align="center">
+<div align="center">
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="Morat's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="Morat's GitHub stats" height="180" />
     </a>
+    <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="180" />
     </a>
+    <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" height="180" />
     </a>
-</p>
+</div>
+
