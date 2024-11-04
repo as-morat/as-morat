@@ -1,4 +1,4 @@
-# Hi 👋, I'm Al Shahriar Mohammad Rafat (Morat)  
+# Hi 👋, I'm Al Shahriar Mohammad Rafat (Ash)  
 A passionate app developer focused on building innovative Android applications.
 
 🔭 **Currently working on:** Capstone project in C for my academic course
@@ -10,35 +10,50 @@ A passionate app developer focused on building innovative Android applications.
 📫 **How to reach me:** morat9511@gmail.com
 
 ---
-
 ### Programming Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg)
+![Python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg)
+![Java](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg)
+![Dart](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg)
+![Flutter](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg)
+![HTML](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg)
+![CSS](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg)
+![JavaScript](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg)
+![C++](https://github.com/heltonricardo/programming-language-icons/blob/master/svg-files/cpp.svg)
 
----
+</div>
 
 ### Development Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg)
+![GitHub](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg)
+![PyCharm](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg)
+![Eclipse](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.svg)
+![IntelliJ IDEA](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg)
+![Visual Studio Code](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg)
+![Visual Studio](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg)
+![Android Studio](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg)
+![Notepad++](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png)
 
----
+</div>
+
 
 ### GitHub Stats
 
-[![Morat's GitHub stats](https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical)](https://github.com/as-morat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical)](https://github.com/as-morat)
-
-[![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical)](https://github.com/as-morat)
+<p align="center">
+    <a href="https://github.com/as-morat">
+        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="Morat's GitHub stats" />
+    </a>
+    <a href="https://github.com/as-morat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/as-morat">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" />
+    </a>
+</p>
 
 
 <!---
