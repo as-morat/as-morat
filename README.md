@@ -41,7 +41,7 @@ I'm a Software Engineering student at Daffodil International University, working
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="Morat's GitHub stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="My GitHub stats" height="180" />
     </a>
     <br>
     <a href="https://github.com/as-morat">
