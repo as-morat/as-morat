@@ -39,6 +39,7 @@ I'm a Software Engineering student at Daffodil International University, working
 <!-- 
 ### **Fun Fact** ⚡
 "Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
+-->
 ---
 
 <br> 
@@ -52,9 +53,6 @@ I'm a Software Engineering student at Daffodil International University, working
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="130" />
     </a>
     <br>
-    <a href="https://github.com/as-morat">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-morat&theme=radical" alt="Current Streak" height="180" />
-    </a>
+ 
 </div>
--->
 
