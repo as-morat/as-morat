@@ -41,8 +41,6 @@ I'm a Software Engineering student at Daffodil International University, working
 "Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
 -->
 ---
-
-<br> 
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
