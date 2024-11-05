@@ -44,13 +44,11 @@ I'm a Software Engineering student at Daffodil International University, working
 ### GitHub Stats ⚡
 <div align="center">
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" alt="Rafat's GitHub stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&card_width=400" alt="Rafat's GitHub stats" width="400" />
     </a>
-    <br>
     <a href="https://github.com/as-morat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" alt="Top Languages" height="130" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&card_width=400" alt="Top Languages" width="400" />
     </a>
-    <br>
- 
 </div>
+
 
