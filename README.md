@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Rafat.
 
-I'm a Software Engineering student at Daffodil International University, working towards my BSc (Honors) degree. I’m focused on creating innovative, user-friendly applications. Right now, I'm enhancing my skills in Flutter to build engaging experiences.
+I'm a Software Engineering student at Daffodil International University, working towards my BSc (Honors) degree. I’m focused on creating innovative, user-friendly applications. Right now, I'm exploring and enhancing my skills.
 
 
 📫 **How to Reach Me:** [morat9511@gmail.com](mailto:morat9511@gmail.com)
