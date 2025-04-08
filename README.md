@@ -1,7 +1,23 @@
-# Hey there! 👋 I'm Rafat.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+    Hey there! I'm Rafat.
+</h1>
+<h3 align="center">🚀 Aspiring Developer | Java Enthusiast | Tech Learner</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Java+%26+Python+Learner;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Spring+Boot+%26+Swing+User;%F0%9F%93%9A+Exploring+App+%26+AI+Dev;%F0%9F%92%AC+Always+Learning+%26+Building&center=true&vCenter=true&color=FF00FF&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a Software Engineering student at Daffodil International University, working towards my BSc (Honors) degree. I’m focused on creating innovative, user-friendly applications. Right now, I'm exploring and enhancing my skills.
+---
 
+I'm a Software Engineering student at **Daffodil International University**, passionate about building meaningful, user-friendly applications.
+
+💻 I’m comfortable with **Java**, and have hands-on experience with **Spring Boot**, and **collection frameworks**.  
+📱 I'm currently diving deeper into **App Development** and exploring the exciting world of **Artificial Intelligence**.  
+🧠 Not a full-stack dev (yet 😉), but I love learning, experimenting, and growing every day.  
+
+---
 
 📫 **How to Reach Me:** [morat9511@gmail.com](mailto:morat9511@gmail.com)
 
