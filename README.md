@@ -80,10 +80,6 @@
 
 </div>
 
-<!-- 
-### **Fun Fact** ⚡
-"Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
--->
 ---
 
 ### 📊 GitHub Stats
@@ -101,16 +97,3 @@
 </div>
 
 ---
-<!-- 
-### 🏆 GitHub Highlights
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=as-morat&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
--->
-
-
