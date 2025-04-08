@@ -21,13 +21,27 @@
 
 ### 🌟 Connect With Me
 
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/as_morat)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morat46/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ash646/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ash_46_bit)
-
+<div align="center" style="margin-bottom: 10px;">
+  <!-- Email -->
+  <a href="mailto:morat9511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://x.com/as_morat">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/morat46/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ash646/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/ash_46_bit">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
 
 ---
@@ -98,15 +112,5 @@
 
 ---
 -->
-
-
-### 📫 Reach Me At:
-
-<div align="center" style="margin-top: 10px;">
-  <a href="mailto:morat9511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
 
 
