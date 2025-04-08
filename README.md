@@ -23,45 +23,77 @@
 ### 🔗 Connect With Me
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/as_morat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morat46/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ash646/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/ash_46_bit)
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
 
+    <a href="https://x.com/as_morat" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/X.svg" alt="X" height="40" />
+    </a>
+
+    <a href="https://www.linkedin.com/in/morat46/" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" />
+    </a>
+
+    <a href="https://leetcode.com/u/ash646/" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LeetCode.svg" alt="LeetCode" height="40" />
+    </a>
+
+    <a href="https://discord.com/users/ash_46_bit" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Discord" height="40" />
+    </a>
+
+  </div>
 </div>
 
----
 
 ### 🛠️ Tech Stack
 
 <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/dart.svg" width="40" height="40" alt="Dart" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40" height="40" alt="C++" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="40" height="40" alt="Gradle" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" />
+  
+</div>
 
-#### Languages
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" alt="Java" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="40" alt="Python" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart.svg" width="40" alt="Dart" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40" alt="C++" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40" alt="C" />
 
-#### Frameworks & Tools
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" alt="Flutter" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" alt="Firebase" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="40" alt="Gradle" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" alt="Git" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" alt="GitHub" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" alt="GitLab" />
+<div align="center">
 
-#### IDEs & Editors
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.svg" width="40" alt="Eclipse" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="40" alt="IntelliJ" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" width="40" alt="Android Studio" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="40" alt="VS Code" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="40" alt="Visual Studio" />
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png" width="40" alt="Notepad++" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="40" alt="CMake" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" height="40" alt="Git" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" height="40" alt="GitLab" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg" width="40" height="40" alt="PyCharm" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="40" height="40" alt="Eclipse" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="40" height="40" alt="IntelliJ IDEA" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width="40" height="40" alt="Visual Studio Code" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="40" height="40" alt="Visual Studio" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" width="40" height="40" alt="Android Studio" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png" width="40" height="40" alt="Notepad++" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="40" height="40" alt="CMake" />
 
 </div>
+
+<!-- 
+### **Fun Fact** ⚡
+"Nothing beats that 'Eureka!' moment when the code finally works! Coding is more than a skill; it's a journey of discovery and problem-solving that keeps me motivated every day."
+-->
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiskatul&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/mmiskatul)
+
+[![Miskat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiskatul&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/mmiskatul)
+
+</div>
+
 
 ---
 
@@ -73,19 +105,28 @@
 
 </div>
 
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/as-morat">
-    <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical" width="400" />
-  </a>
-  <a href="https://github.com/as-morat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical" width="400" />
-  </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiskatul&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/mmiskatul)
+
+[![Miskat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiskatul&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/mmiskatul)
+
 </div>
+
 
 ---
 
-📫 **Reach Me At:** [morat9511@gmail.com](mailto:morat9511@gmail.com)
+### 📫 Reach Me At:
+
+<div align="center" style="margin-top: 10px;">
+  <a href="mailto:morat9511@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: bold; font-size: 18px; color: black;">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-icon/gmail.svg" alt="Gmail" height="30">
+    morat9511@gmail.com
+  </a>
+</div>
+
