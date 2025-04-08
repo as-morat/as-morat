@@ -87,7 +87,7 @@
 </div>
 
 ---
-
+<!-- 
 ### 🏆 GitHub Highlights
 
 <div align="center">
@@ -97,14 +97,16 @@
 </div>
 
 ---
+-->
 
 
 ### 📫 Reach Me At:
 
 <div align="center" style="margin-top: 10px;">
-  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morat9511@gmail.com)
+  <a href="mailto:morat9511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
-
 
 
 
