@@ -3,43 +3,35 @@
   Hey there! I'm Rafat.
 </h1>
 
-<h3 align="center">🚀 **Java Developer** | **Backend Enthusiast** | **On a Dev Journey** 🌟</h3>
+<h3 align="center">🚀 Java Developer | Backend Enthusiast | On a Dev Journey 🌟</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Java+Developer;🔥+Focused+on+Backend+Development;🧠+Passionate+about+Clean+Code+and+Architecture;🚀+Always+Learning+and+Improving!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Java+Developer;🔥+Focused+on+Backend+Development;🧠+Passionate+about+Clean+Code;🚀+Always+Learning+and+Improving!" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 
-🎓 **Software Engineering student** at [Daffodil International University](https://www.daffodilvarsity.edu.bd/) with knowledge in **Java**, **Spring**, and **Swing**, focusing on backend development.  
+🎓 **Software Engineering student** at [Daffodil International University](https://www.daffodilvarsity.edu.bd/) with knowledge in **Java**, **Spring**, and **Collection Framework**.  
 📚 Constantly learning and improving my skills to grow as a developer.
 
 ---
 
-## 🔗 Connect With Me
+### 🌟 Connect With Me
 
 <div align="center">
-  <a href="https://x.com/as_morat" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/X_logo.svg" alt="X" height="40" />
-  </a>
+  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/as_morat)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morat46/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ash646/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ash_46_bit)
 
-  <a href="https://www.linkedin.com/in/morat46/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/ash646/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/LeetCode_logo_2021.svg" alt="LeetCode" height="40" />
-  </a>
-
-  <a href="https://discord.com/users/ash_46_bit" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Discord_logo_2021.svg" alt="Discord" height="40" />
-  </a>
 </div>
 
 ---
+
 
 ### 🛠️ Tech Stack
 
@@ -84,12 +76,15 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/as-morat)
-
-[![Morat's GitHub stats](https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/as-morat)
+  <a href="https://github.com/as-morat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10" />
+  </a>
+  
+  <a href="https://github.com/as-morat">
+    <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true" />
+  </a>
 
 </div>
-
 
 ---
 
@@ -101,18 +96,15 @@
 
 </div>
 
-
 ---
 
 
 ### 📫 Reach Me At:
 
 <div align="center" style="margin-top: 10px;">
-  <a href="mailto:morat9511@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: bold; font-size: 18px; color: black;">
-    <img src="https://raw.githubusercontent.com/as-morat/as-morat/main/path-to-icon/gmail.svg" alt="Gmail" height="30">
-    morat9511@gmail.com
-  </a>
+  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morat9511@gmail.com)
 </div>
+
 
 
 
