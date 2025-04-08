@@ -3,7 +3,7 @@
   Hey there! I'm Rafat.
 </h1>
 
-<h3 align="center">🚀 Java Developer | Backend Enthusiast | On a Dev Journey 🌟</h3>
+<h3 align="center">👨‍💻 Java Developer | 🔧 Backend Enthusiast | 🚀 On a Dev Journey</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
