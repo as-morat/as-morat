@@ -3,7 +3,7 @@
   Hey there! I'm Rafat.
 </h1>
 
-<h3 align="center">🚀 Java Developer | Backend Enthusiast | On a Dev Journey 🚀</h3>
+<h3 align="center">🚀 **Java Developer** | **Backend Enthusiast** | **On a Dev Journey** 🌟</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,31 +19,27 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="https://x.com/as_morat" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/X_logo.svg" alt="X" height="40" />
+  </a>
 
-    <a href="https://x.com/as_morat" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/X_logo.svg" alt="X" height="40" />
-    </a>
+  <a href="https://www.linkedin.com/in/morat46/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" />
+  </a>
 
-    <a href="https://www.linkedin.com/in/morat46/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" />
-    </a>
+  <a href="https://leetcode.com/u/ash646/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/LeetCode_logo_2021.svg" alt="LeetCode" height="40" />
+  </a>
 
-    <a href="https://leetcode.com/u/ash646/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/LeetCode_logo_2021.svg" alt="LeetCode" height="40" />
-    </a>
-
-    <a href="https://discord.com/users/ash_46_bit" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Discord_logo_2021.svg" alt="Discord" height="40" />
-    </a>
-
-  </div>
+  <a href="https://discord.com/users/ash_46_bit" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Discord_logo_2021.svg" alt="Discord" height="40" />
+  </a>
 </div>
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -88,9 +84,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiskatul&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/mmiskatul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/as-morat)
 
-[![Miskat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiskatul&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/mmiskatul)
+[![Morat's GitHub stats](https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/as-morat)
 
 </div>
 
@@ -113,9 +109,10 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="mailto:morat9511@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: bold; font-size: 18px; color: black;">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-icon/gmail.svg" alt="Gmail" height="30">
+    <img src="https://raw.githubusercontent.com/as-morat/as-morat/main/path-to-icon/gmail.svg" alt="Gmail" height="30">
     morat9511@gmail.com
   </a>
 </div>
+
 
 
