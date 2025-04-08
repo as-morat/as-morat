@@ -3,20 +3,19 @@
   Hey there! I'm Rafat.
 </h1>
 
-<h3 align="center">🚀 App Developer | Java Enthusiast | On a Dev Journey 🚀</h3>
+<h3 align="center">🚀 Java Developer | Backend Enthusiast | On a Dev Journey 🚀</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Java+%26+Flutter+Developer;📱+Passionate+about+Clean+UI+%26+UX;🧠+Focused+on+Real-world+App+Development;🔥+Always+Building+%26+Improving!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Java+Developer;🔥+Focused+on+Backend+Development;🧠+Passionate+about+Clean+Code+and+Architecture;🚀+Always+Learning+and+Improving!" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-🎓 I'm a Software Engineering student at **Daffodil International University**, driven by a passion for building real-world, user-focused applications.  
-💻 My core strengths lie in **Java**, **Flutter**, and **Spring Boot**, with a strong emphasis on clean architecture and maintainable code.  
-📱 Whether it's mobile apps or backend systems, I enjoy turning ideas into working solutions.  
-🚀 I’m constantly refining my development workflow, learning best practices, and taking on new challenges to level up.
+
+🎓 **Software Engineering student** at [Daffodil International University](https://www.daffodilvarsity.edu.bd/) with knowledge in **Java**, **Spring**, and **Swing**, focusing on backend development.  
+📚 Constantly learning and improving my skills to grow as a developer.
 
 ---
 
@@ -26,23 +25,24 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
 
     <a href="https://x.com/as_morat" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/X.svg" alt="X" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/X_logo.svg" alt="X" height="40" />
     </a>
 
     <a href="https://www.linkedin.com/in/morat46/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" />
     </a>
 
     <a href="https://leetcode.com/u/ash646/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LeetCode.svg" alt="LeetCode" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/LeetCode_logo_2021.svg" alt="LeetCode" height="40" />
     </a>
 
     <a href="https://discord.com/users/ash_46_bit" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Discord" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Discord_logo_2021.svg" alt="Discord" height="40" />
     </a>
 
   </div>
 </div>
+
 
 
 ### 🛠️ Tech Stack
@@ -108,18 +108,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiskatul&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/mmiskatul)
-
-[![Miskat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiskatul&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/mmiskatul)
-
-</div>
-
-
----
 
 ### 📫 Reach Me At:
 
@@ -129,4 +117,5 @@
     morat9511@gmail.com
   </a>
 </div>
+
 
