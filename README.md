@@ -11,11 +11,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=2DDBF0&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Clean+Code+%7C+Best+Practices;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Code;%F0%9F%92%BB+Focusing+On+Developing+Robust+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=2DDBF0&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Clean+Code+%7C+Best+Practices;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Apps;%F0%9F%92%BB+Passionate+About+Development" alt="Typing SVG" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
----
 
 ### 🌟 Connect With Me
 
