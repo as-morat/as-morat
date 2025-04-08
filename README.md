@@ -5,8 +5,8 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/KEYJ8eYrmZmwvqLbRz/giphy.gif" width="25"> Java Developer 
-  | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Backend Specialist 
-  | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"> Code Alchemist
+  | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Backend Enthusiast 
+  | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"> Null Terminator
 </h3>
 
 <p align="center">
