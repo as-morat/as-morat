@@ -1,21 +1,14 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Hey there! I'm Rafat.
-</h1>
+# Hey there! I'm Rafat 👋
 
-<h3 align="center">👨‍💻 Java Developer | 🔧 Backend Enthusiast | 🚀 On a Dev Journey</h3>
+![Greeting Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+### 👨‍💻 Java Developer | 🔧 Backend Enthusiast | 🚀 On a Dev Journey
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Java+Developer;🔥+Focused+on+Backend+Development;🧠+Passionate+about+Clean+Code;🚀+Always+Learning+and+Improving!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=🎓+Software+Engineer;+Student+at+Daffodil+International+University;💻+Java+Developer;+🚀+Always+Learning+and+Improving!" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-
-🎓 **Software Engineering student** at [Daffodil International University](https://www.daffodilvarsity.edu.bd/) with knowledge in **Java**, **Spring**, and **Collection Framework**.  
-📚 Constantly learning and improving my skills to grow as a developer.
 
 ---
 
