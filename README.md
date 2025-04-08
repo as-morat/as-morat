@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  <span style="color: #4FC0D0;">Hey there! I'm Rafat.</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  Hey there! I'm Rafat.
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Java Developer | Backend Craftsman | Code Explorer
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/KEYJ8eYrmZmwvqLbRz/giphy.gif" width="25"> Java Developer 
+  | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Backend Specialist 
+  | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"> Code Alchemist
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4FC0D0&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Professional+Java+Developer;%F0%9F%9A%80+Spring+Boot+%7C+Hibernate+%7C+Microservices;%F0%9F%93%9A+Daffodil+University+Scholar;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Code;%E2%9C%A8+Clean+Code+%7C+Best+Practices" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=2DDBF0&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Clean+Code+%7C+Best+Practices;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Code;%F0%9F%92%BB+Focusing+On+Developing+Robust+Systems" alt="Typing SVG" />
   </a>
 </p>
+</div>
 ---
 
 ### 🌟 Connect With Me
