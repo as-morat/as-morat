@@ -90,10 +90,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10" />
   </a>
   
- <-- <a href="https://github.com/as-morat">
+ <!-- <a href="https://github.com/as-morat">
     <img src="https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true" />
   </a>
---
+-->
 </div>
 
 ---
