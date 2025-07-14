@@ -4,14 +4,21 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Kotlin Developer 
-  | <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="25"> Android Enthusiast 
-  | <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="25"> Backend Curious
+  <img src="https://logo.svgcdn.com/l/kotlin-icon.png" width="25" height="25" alt="Kotlin" /> Kotlin Developer
+  | <img src="https://logo.svgcdn.com/l/android-icon.png" width="25" height="25" alt="Android" /> Android Enthusiast 
+  | <a target="_blank" href="https://icons8.com/icon/QsO1qiXCL8H2/code">
+  <img src="https://img.icons8.com/ios-filled/25/000000/code.png" alt="Backend" width="25" height="25" />
+</a> 
+Backend Curious
+
+<p>
+  Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+</p>
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=F772E0&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Building+Android+Apps+with+Jetpack+Compose;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Kotlin+Lover+%7C+Clean+Code+Focus;%E2%9C%A8+Future+Backend+Engineer+in+Progress" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=F772E0&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Building+Android+Apps+with+Kotlin;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Kotlin+Lover+%7C+Clean+Code+Focus;%E2%9C%A8+Backend+Engineer+in+Progress" alt="Typing SVG" />
   </a>
 </p>
 
