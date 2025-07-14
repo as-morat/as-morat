@@ -10,10 +10,6 @@
   <img src="https://img.icons8.com/ios-filled/25/000000/code.png" alt="Backend" width="25" height="25" />
 </a> 
 Backend Curious
-
-<p>
-  Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-</p>
 </h3>
 
 <p align="center">
