@@ -1,18 +1,19 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hey there! I'm Ash 👨‍💻
+  Hey there! I'm Ash
 </h1>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="25" height="25" alt="Flutter" /> Flutter Developer |
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Light.svg" width="25" height="25" alt="Kotlin" /> Kotlin Learner |
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="25" height="25" alt="Compose" /> Compose Explorer |
-  <img src="https://img.icons8.com/ios-filled/25/000000/code.png" alt="Backend" width="25" height="25" /> Backend Curious
+<h3 align="center" style="display: inline-flex; gap: 12px; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <span><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="25" height="25" style="vertical-align: middle;" /> Flutter Developer</span>
+  <span><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Light.svg" width="25" height="25" style="vertical-align: middle;" /> Kotlin Learner</span>
+  <span><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="25" height="25" style="vertical-align: middle;" /> Compose Explorer</span>
 </h3>
 
-<!-- 🌈 Smooth Animated Typing Text -->
+<!-- ✨ Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F62FF&center=true&vCenter=true&width=600&lines=🚀+Learning+Flutter+%26+Jetpack+Compose;💻+Building+Modern+Android+Apps+with+Kotlin;✨+Exploring+AI+%26+Backend+Integration;🔥+Consistent+Growth+is+the+Goal" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F62FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Kotlin+App+Developer;Passionate+About+Modern+UI+Design;Exploring+Backend+Integration+%26+AI;Always+Learning+Something+New" 
+    alt="Typing SVG" />
 </p>
 
 <!-- Divider -->
@@ -77,10 +78,15 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/as-morat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10" />
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=as-morat&theme=radical&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-morat&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/as-morat)
+
+[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=as-morat&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/as-morat)
+
 </div>
 
 ---
