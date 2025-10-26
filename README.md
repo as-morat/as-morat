@@ -1,28 +1,29 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hey there! I'm Ash.
+  Hey there! I'm Ash 👨‍💻
 </h1>
 
 <h3 align="center">
-  <img src="https://logo.svgcdn.com/l/flutter-icon.png" width="25" height="25" alt="Flutter" /> Flutter Developer |
-  <img src="https://logo.svgcdn.com/l/kotlin-icon.png" width="25" height="25" alt="Kotlin" /> Kotlin Developer |
-  <img src="https://logo.svgcdn.com/l/android-icon.png" width="25" height="25" alt="App" /> App Developer |
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="25" height="25" alt="Flutter" /> Flutter Developer |
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Light.svg" width="25" height="25" alt="Kotlin" /> Kotlin Learner |
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="25" height="25" alt="Compose" /> Compose Explorer |
   <a target="_blank" href="https://icons8.com/icon/QsO1qiXCL8H2/code">
     <img src="https://img.icons8.com/ios-filled/25/000000/code.png" alt="Backend" width="25" height="25" />
   </a>
   Backend Curious
 </h3>
 
+<!-- 🌈 Smooth Animated Typing Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=F772E0&center=true&vCenter=true&width=500&lines=💻+Building+Android+Apps+with+Kotlin;👨‍💻+Kotlin+Lover+%7C+Clean+Code+Focus;✨+Backend+Engineer+in+Progress" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F62FF&center=true&vCenter=true&width=600&lines=🚀+Learning+Flutter+%26+Jetpack+Compose;💻+Building+Modern+Android+Apps+with+Kotlin;✨+Exploring+AI+%26+Backend+Integration;🔥+Consistent+Growth+is+the+Goal" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Divider -->
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </div>
-
 
 ### 🌟 Connect With Me
 <div align="center" style="margin-bottom: 10px;"> 
