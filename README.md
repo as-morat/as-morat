@@ -77,6 +77,7 @@
 <td align="center">
 
 <img src="https://skillicons.dev/icons?i=firebase" width="50" />
+<img src="https://skillicons.dev/icons?i=supabase" width="50" />
 <img src="https://skillicons.dev/icons?i=mysql" width="50" />
 <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
 <img src="https://skillicons.dev/icons?i=spring" width="50" />
